@@ -20,4 +20,4 @@
     <a href="https://discord.st/ibrahimshangout">Discord</a>
   </p>
 </p>
-![Ibrahim's GitHub stats](https://github-readme-stats.vercel.app/api?username=ibrahimdevx&theme=dark&show_icons=true)
+[Ibrahim's GitHub stats](https://github-readme-stats.vercel.app/api?username=ibrahimdevx&theme=dark&show_icons=true)]
