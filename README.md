@@ -8,9 +8,9 @@
   <h3 align="center">Ibrahim.is-a.dev</h3>
 
   <p align="center">
-    Source code of https://ibrahim.is-a.dev
+    Personal Website https://ibrahim.is-a.dev
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Visit the website »</strong></a>
+    <a href="https://ibrahim.is-a.dev"><strong>Visit the website »</strong></a>
     <br />
     <br />
     <a href="https://twitter.com/ibrahimdevx">Twitter</a>
