@@ -20,7 +20,5 @@
     <a href="https://discord.st/ibrahimshangout">Discord</a>
   </p>
 </p>
-<center>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=ibrahimdevx&show_icons=true&include_all_commits=true&theme=dark" alt="Ibrahim's github stats" />
-  </center>
+
 </a>
