@@ -8,7 +8,7 @@
   <h3 align="center">Ibrahim.is-a.dev</h3>
 
   <p align="center">
-    Personal Website https://ibrahim.is-a.dev
+     A developer
     <br />
     <a href="https://ibrahim.is-a.dev"><strong>Visit the website »</strong></a>
     <br />
