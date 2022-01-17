@@ -1,5 +1,5 @@
 <h2> Hello world<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
-A Pakistani Developer based in Canada |
+A Pakistani Developer based in UAE |
 https://ibrahim.is-a.dev
 
 
